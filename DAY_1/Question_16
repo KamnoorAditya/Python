@@ -1,0 +1,7 @@
+name=["Rahul","Aman","Priya","Neha"]
+name.append("Karan")
+
+name.insert(2,"Sneha")
+name.remove("Aman")
+name.sort()
+print(name[::-1])

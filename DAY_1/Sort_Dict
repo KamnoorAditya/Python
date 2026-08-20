@@ -1,0 +1,4 @@
+s=input()
+c=s.split(" ")
+c.sort()
+print(c[0])

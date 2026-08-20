@@ -1,0 +1,6 @@
+sen="python is a powerful language".split(" ")
+count=0
+for i in sen:
+    if i=="powerful":  
+        count+=1
+print(count)

@@ -1,0 +1,6 @@
+nums = input().split()
+repeated = []
+for i in nums:
+    if nums.count(i) > 1 and i not in repeated:
+        repeated.append(i)
+print(len(repeated))
