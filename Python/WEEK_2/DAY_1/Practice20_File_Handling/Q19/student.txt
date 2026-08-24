@@ -1,0 +1,3 @@
+Name: adi
+Age: 22
+Marks: 77
