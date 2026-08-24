@@ -1,0 +1,12 @@
+x="25"
+y=4.5
+z=10
+a=int(x)+z
+b=int(x)*2
+c=y+z
+print(a)
+print(b)
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))

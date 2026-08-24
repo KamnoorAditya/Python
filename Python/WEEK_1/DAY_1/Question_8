@@ -1,0 +1,4 @@
+sentence=input()
+print(sentence.split(" "))
+print(sentence.upper())
+print(sentence.replace("easy","powerful"))

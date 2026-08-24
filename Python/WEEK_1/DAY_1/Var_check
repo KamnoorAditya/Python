@@ -1,0 +1,5 @@
+s=input()
+if(s.startswith("_") or 'a'<=s[0]<='z' or 'A'<=s[0]<='Z'):
+    print("True")
+else:
+    print("False")

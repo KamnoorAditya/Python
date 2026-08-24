@@ -1,0 +1,6 @@
+l1=[4,15,8,21,3,17]
+l2=[]
+for i in l1:
+    if i>10:
+        l2.append(i)
+print(l2)
